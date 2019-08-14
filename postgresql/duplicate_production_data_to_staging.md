@@ -9,7 +9,7 @@ WITH TEMPLATE sourcedb;
 
 But if the database is production, you'll likely get the error:
 ```
-ERROR:  source database "***REMOVED***" is being accessed by other users
+ERROR:  source database "target_db" is being accessed by other users
 DETAIL:  There are 4 other sessions using the database.
 ```
 

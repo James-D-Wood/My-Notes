@@ -16,3 +16,7 @@ sudo service mongodb start
 ```
 mongo
 ```
+
+#### Resources
+https://medium.com/@zhanxucong/installing-mongodb-and-redis-on-wsl-2038a2f6a0a9
+https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/

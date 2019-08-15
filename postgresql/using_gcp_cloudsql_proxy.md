@@ -1,4 +1,4 @@
-# How to start the CloudSQL Proxy and connect via the psql utility on terminal
+# Start the CloudSQL Proxy and connect via the psql utility
 (This is a lazy, lazy cheat sheet)
 
 To start the proxy:

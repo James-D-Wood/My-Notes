@@ -44,6 +44,10 @@ Check for connection logs
 
 `$ cat /var/log/auth.log | grep 'onnect'` 
 
+SCP Format
+
+`$ scp [OPTION] [user@]SRC_HOST:]file1 [user@]DEST_HOST:]file2`
+
 Important files:
 ```sh
 # tcp wrappers
